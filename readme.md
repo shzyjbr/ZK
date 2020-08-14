@@ -1,4 +1,4 @@
-#test
+#git learn
 before ```git status```
 
 result:
