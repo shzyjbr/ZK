@@ -14,3 +14,4 @@ $ git status
 ```
 before ```git add readme.md``` and ```git commmit -m ```
 add a new line
+want to rockball to lastest status
