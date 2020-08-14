@@ -13,3 +13,4 @@ $ git status
    no changes added to commit (use "git add" and/or "git commit -a")
 ```
 before ```git add readme.md``` and ```git commmit -m ```
+add a new line
